@@ -25,6 +25,8 @@
     "untek-core/file-system": "0.x-dev",
     "untek-core/instance": "0.x-dev",
     "untek-core/pattern": "0.x-dev",
+    "untek-core/property": "0.x-dev",
+    "untek-core/argument-resolver": "0.x-dev",
     "untek-core/text": "0.x-dev"
   }
 }
