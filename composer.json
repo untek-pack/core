@@ -27,6 +27,6 @@
     "untek-core/pattern": "0.1.x-dev",
     "untek-core/property": "0.1.x-dev",
     "untek-core/argument-resolver": "0.1.x-dev",
-    "untek-core/text": "0.x-dev"
+    "untek-core/text": "0.1.x-dev"
   }
 }
