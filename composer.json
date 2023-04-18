@@ -28,5 +28,11 @@
     "untek-core/property": "0.1.x-dev",
     "untek-core/argument-resolver": "0.1.x-dev",
     "untek-core/text": "0.1.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Untek\\Pack\\Core\\": "src",
+      "Untek\\Pack\\Core\\Tests\\": "tests"
+    }
   }
 }
